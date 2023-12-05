@@ -1,4 +1,4 @@
---please run import this into sql for first time before start the php.
+-- please run import this into sql for first time before start the php.
 
 CREATE DATABASE ttmt;
 
